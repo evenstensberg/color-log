@@ -14,5 +14,13 @@
   "license": "MIT",
   "devDependencies": {
     "google-closure-compiler": "^20210601.0.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evenstensberg/color-log.git"
+  },
+  "bugs": {
+    "url": "https://github.com/evenstensberg/color-log/issues"
+  },
+  "homepage": "https://github.com/evenstensberg/color-log#readme"
 }
