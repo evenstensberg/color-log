@@ -1,0 +1,18 @@
+{
+  "name": "color-log",
+  "version": "1.0.0",
+  "description": "Just another color library for NodeJS",
+  "main": "dist.js",
+  "keywords": [
+    "color",
+    "log"
+  ],
+  "scripts": {
+    "bundle": "google-closure-compiler --compilation_level=WHITESPACE_ONLY --process_common_js_modules --js=./index.js --js_output_file=dist.js"
+  },
+  "author": "Even Stensberg <evenstensberg@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "google-closure-compiler": "^20210601.0.0"
+  }
+}
