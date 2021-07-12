@@ -1,5 +1,5 @@
 {
-  "name": "color-log",
+  "name": "@evenstensberg/color-log",
   "version": "1.0.0",
   "description": "Just another color library for NodeJS",
   "main": "dist.js",
