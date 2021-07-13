@@ -17,7 +17,7 @@ const light_cyan = (t) => `\x1b[96m${t}`;
 const white = (t) => `\x1b[97m${t}`;
 
 module.exports = {
-    bold: bold,
+    bold,
     black,
     red,
     green,
